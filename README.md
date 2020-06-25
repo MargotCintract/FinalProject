@@ -3,7 +3,7 @@
 The goal of this program is to deal with basic operations with PDF document.
 I used the PDBbox from Apache and added it to my librairy. 
 
-There a 6 main options to the program: Merge, Split, Encrpypt, Create, Edit and Read. The user can choose the option he wants.
+There are 6 main options to the program: Merge, Split, Encrpypt, Create, Edit and Read. The user can choose the option he wants.
 I will describe each option:
   - Merge PDF: The user can insert the path of the PDFs he wants to merge. The program will check if the field is a PDF or not. The user can add as many PDF as he wants
                Then he has to select the folder in which he want to create the new PDF and enter the name he wants to give to the PDF. The program will check if a PDF with this
