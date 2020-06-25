@@ -3,6 +3,8 @@
 The goal of this program is to deal with basic operations with PDF document.
 I used the PDBbox from Apache and added it to my librairy. 
 
+The program can be used in intellij or in the command prompt of the computer. It was created for personal purposes as dealing with PDF is quite frequent in everyday life.
+
 There are 6 main options to the program: Merge, Split, Encrpypt, Create, Edit and Read. The user can choose the option he wants.
 I will describe each option:
   - Merge PDF: The user can insert the path of the PDFs he wants to merge. The program will check if the field is a PDF or not. The user can add as many PDF as he wants
