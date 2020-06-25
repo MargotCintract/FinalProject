@@ -28,5 +28,5 @@ I will describe each option:
   If the PDF is encrypted, my program cannot read it and will close.
   If the user does not enter a path of a folder when it is required, the program will not detect the error and when being working it will close.
   The bibliography which is created will fit only one page. I didn't program to add a page. If the bibliography is too long, some content will not be seen. 
-  The same problem occurs when editing a page. If the user wants to insert more lines than what a page can fill, some content will not appeir on the page as no additional page will be created.
+  The same problem occurs when editing a page. If the user wants to insert more lines than what a page can fill, some content will not appeir on the page as no additional page   will be created.
   
